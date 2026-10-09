@@ -1,7 +1,7 @@
 # FilePilot — Intelligent File Organizer
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Lkkkira/viswa)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Lkkkira/viswa)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Lkkkira/vishwa77)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Lkkkira/vishwa77)
 
 FilePilot is an intelligent, local-first file organization tool featuring a modern visual interface matching pale blue (`#DCEAF7`) and deep purple (`#4F35B9`) design targets. It classifies unorganized archives, identifies exact SHA-256 duplicate files, generates deterministic organization manifests with collision prevention, and executes safe workspace transformations.
 
@@ -29,8 +29,8 @@ FilePilot is an intelligent, local-first file organization tool featuring a mode
 
 Click either button below to deploy FilePilot live from this GitHub repository:
 
-- 🟣 **Deploy Full Stack to Render** (1-Click Docker Web Service): [Deploy on Render](https://render.com/deploy?repo=https://github.com/Lkkkira/viswa)
-- ▲ **Deploy Frontend to Vercel** (1-Click Static React App): [Deploy on Vercel](https://vercel.com/new/clone?repository-url=https://github.com/Lkkkira/viswa)
+- 🟣 **Deploy Full Stack to Render** (1-Click Docker Web Service): [Deploy on Render](https://render.com/deploy?repo=https://github.com/Lkkkira/vishwa77)
+- ▲ **Deploy Frontend to Vercel** (1-Click Static React App): [Deploy on Vercel](https://vercel.com/new/clone?repository-url=https://github.com/Lkkkira/vishwa77)
 
 ---
 
