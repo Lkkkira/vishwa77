@@ -1,0 +1,14 @@
+.git
+**/node_modules
+**/.venv
+**/venv
+**/__pycache__
+**/.pytest_cache
+**/*.pyc
+**/*.db
+**/*.sqlite3
+**/.env
+**/.env.*
+frontend/dist
+workspace
+sample_workspace.zip

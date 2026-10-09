@@ -1,9 +1,17 @@
 services:
   - type: web
     name: filepilot
-    env: docker
+    runtime: docker
     plan: free
     dockerfilePath: ./Dockerfile
+    dockerContext: .
+    healthCheckPath: /api/health
     envVars:
       - key: PORT
         value: 8000
+      - key: FILEPILOT_DB_PATH
+        value: /app/workspace/filepilot.db
+      - key: FILEPILOT_WORKSPACE
+        value: /app/workspace
+      - key: PYTHONUNBUFFERED
+        value: "1"
